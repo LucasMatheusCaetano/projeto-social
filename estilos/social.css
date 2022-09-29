@@ -1,6 +1,10 @@
 @charset "UTF-8"
 
 * {
+    /*Criado como forma de debug*/
+}
+
+* {
     margin: 0px;
     padding: 0px;
     font-family: Arial, Helvetica, sans-serif;
@@ -12,7 +16,7 @@
 }
 
 img {
-    width: 250px;
+    width: 100vw;
 }
 
 a {
